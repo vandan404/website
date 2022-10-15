@@ -1,2 +1,2 @@
 # website
-[visit website](https://website.vandy.one)
+[visit website](https:///webtales.vandy.one/)
